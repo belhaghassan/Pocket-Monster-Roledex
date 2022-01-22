@@ -1,3 +1,18 @@
+#Monster Roledex
+
+##Installation
+This project is built with react
+
+Clone this project from GitHub and install dependencies
+
+```
+git clone https://github.com/belhaghassan/Monster-Roledex.git
+cd Monsters-Rolodex
+npm install
+```
+
+##For create react starter code follow the steps below 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
