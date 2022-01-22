@@ -1,6 +1,6 @@
-#Monster Roledex
+# Monster Roledex
 
-##Installation
+## Installation
 This project is built with react
 
 Clone this project from GitHub and install dependencies
@@ -11,7 +11,7 @@ cd Monsters-Rolodex
 npm install
 ```
 
-##For create react starter code follow the steps below 
+## For create react starter code follow the steps below 
 
 # Getting Started with Create React App
 
