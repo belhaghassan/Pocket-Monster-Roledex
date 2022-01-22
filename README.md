@@ -7,7 +7,7 @@ Clone this project from GitHub and install dependencies
 
 ```
 git clone https://github.com/belhaghassan/Monster-Roledex.git
-cd Monsters-Rolodex
+cd Monster-Rolodex
 npm install
 ```
 
