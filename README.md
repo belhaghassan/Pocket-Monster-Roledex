@@ -11,7 +11,7 @@ cd Monster-Rolodex
 npm install
 ```
 
-## For create react starter code follow the steps below 
+## For react starter code follow the steps below:
 
 # Getting Started with Create React App
 
