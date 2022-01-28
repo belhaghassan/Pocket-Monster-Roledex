@@ -1,7 +1,9 @@
 .card-list {
-    width: 85vw;
-    margin: 0 auto;
-    display: grid;
-    grid-template-columns: .75fr .75fr .75fr .75fr;
+    width: auto;
+    margin: 20px auto auto ;
+    max-width: 85vw;
+    max-height: 50vw;
+    display: flex;
+    flex-wrap: wrap;
     grid-gap: 20px;
 }

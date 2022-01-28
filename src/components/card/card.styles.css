@@ -1,9 +1,9 @@
 .card-container {
     display: flex;
     flex-direction: column;
-    background-color: #95dada;
-    border: 1px solid grey;
-    border-radius: 5px;
+    background-color: #d3e631;
+    border: 5px solid rgb(160, 151, 151);
+    border-radius: 10px;
     padding: 25px;
     cursor: pointer;
     -moz-osx-font-smoothing: grayscale;
@@ -14,4 +14,14 @@
 
 .card-container:hover {
     transform: scale(1.05);
+}
+
+img {
+    border: 5px solid grey;
+    border-radius: 10px;
+    background-color: beige;
+    height: 200px; 
+    width: auto; 
+    max-width: 150px; 
+    max-height: 300px;
 }

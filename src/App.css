@@ -1,4 +1,7 @@
 .App {
+  display: flex;
+  align-content: center;
+  display: block;
   text-align: center;
 }
 
