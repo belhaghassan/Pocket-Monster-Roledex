@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Pocket-Monster-Roledex/static/css/main.f5ff5b95.css",
-    "main.js": "/Pocket-Monster-Roledex/static/js/main.7f767cef.js",
-    "static/js/787.f0a718e8.chunk.js": "/Pocket-Monster-Roledex/static/js/787.f0a718e8.chunk.js",
-    "index.html": "/Pocket-Monster-Roledex/index.html",
-    "main.f5ff5b95.css.map": "/Pocket-Monster-Roledex/static/css/main.f5ff5b95.css.map",
-    "main.7f767cef.js.map": "/Pocket-Monster-Roledex/static/js/main.7f767cef.js.map",
-    "787.f0a718e8.chunk.js.map": "/Pocket-Monster-Roledex/static/js/787.f0a718e8.chunk.js.map"
+    "main.css": "/Pocket-Monsters-Rolodex/static/css/main.f5ff5b95.css",
+    "main.js": "/Pocket-Monsters-Rolodex/static/js/main.8e9c33ce.js",
+    "static/js/787.f0a718e8.chunk.js": "/Pocket-Monsters-Rolodex/static/js/787.f0a718e8.chunk.js",
+    "index.html": "/Pocket-Monsters-Rolodex/index.html",
+    "main.f5ff5b95.css.map": "/Pocket-Monsters-Rolodex/static/css/main.f5ff5b95.css.map",
+    "main.8e9c33ce.js.map": "/Pocket-Monsters-Rolodex/static/js/main.8e9c33ce.js.map",
+    "787.f0a718e8.chunk.js.map": "/Pocket-Monsters-Rolodex/static/js/787.f0a718e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f5ff5b95.css",
-    "static/js/main.7f767cef.js"
+    "static/js/main.8e9c33ce.js"
   ]
 }
