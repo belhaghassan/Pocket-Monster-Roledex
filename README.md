@@ -1,4 +1,4 @@
-# Pocket Monster Roledex
+# Pocket Monster Rolodex
 
 This Pokemon roledex was built using React and utilized the create-react-app starter code which can be found below.
 
