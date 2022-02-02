@@ -2,7 +2,7 @@
   "name": "monsterdex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://belhaghassan.github.io/Monster-Roledex",
+  "homepage": "https://belhaghassan.github.io/Pocket-Monsters-Rolodex",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
